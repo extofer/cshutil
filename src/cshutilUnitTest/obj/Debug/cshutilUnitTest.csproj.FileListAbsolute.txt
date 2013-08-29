@@ -1,0 +1,5 @@
+C:\Users\gvilla\Desktop\cshutil\src\cshutilUnitTest\bin\Debug\cshutilUnitTest.dll
+C:\Users\gvilla\Desktop\cshutil\src\cshutilUnitTest\bin\Debug\cshutilUnitTest.pdb
+C:\Users\gvilla\Desktop\cshutil\src\cshutilUnitTest\obj\Debug\cshutilUnitTest.csprojResolveAssemblyReference.cache
+C:\Users\gvilla\Desktop\cshutil\src\cshutilUnitTest\obj\Debug\cshutilUnitTest.dll
+C:\Users\gvilla\Desktop\cshutil\src\cshutilUnitTest\obj\Debug\cshutilUnitTest.pdb
